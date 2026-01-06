@@ -162,7 +162,6 @@ Here are some screenshots to demonstrate how **Reply Craft** works:
 
 ```
 
-
 ## 📂 Project Structure
 ```bash
 reply-craft/
