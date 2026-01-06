@@ -134,6 +134,40 @@ chrome://extensions/
 
 ---
 
+---
+
+## 📸 Screenshots / Demo
+
+Here are some screenshots to demonstrate how **Reply Craft** works:
+
+### 1️⃣ Gmail Inbox
+![Gmail Inbox](screenshots/gmail-inbox.png)
+
+*Shows the email you want to reply to.*
+
+---
+
+### 2️⃣ AI Reply Button
+![AI Reply Button](screenshots/ai-reply-button.png)
+
+*Click the “Reply Craft / AI Reply” button to generate a reply.*
+
+---
+
+### 3️⃣ Generated Reply
+![Generated Reply](screenshots/generated-reply.png)
+
+*The AI generates a professional response using Gemini API.*
+
+---
+
+### 4️⃣ Final Email Ready to Send
+![Final Email](screenshots/final-email.png)
+
+*Edit if needed and click “Send”.*
+
+
+
 ## 📂 Project Structure
 ```bash
 reply-craft/
