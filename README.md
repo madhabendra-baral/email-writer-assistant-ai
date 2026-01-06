@@ -71,8 +71,7 @@ Generated Reply → Back to Extension → Insert into Gmail
 ### 🔹 Step 1: Clone the Repository
 Clone your repository locally (example using this repo):
 ```bash
-git clone https://github.com/madhabendra-baral/GitDemo3.git
-cd GitDemo3
+git clone https://github.com/madhabendra-baral/email-writer-assistant-ai.git
 ```
 
 > If you fork or move this project, replace the URL above with your repository URL.
