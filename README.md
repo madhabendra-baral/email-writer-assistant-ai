@@ -76,7 +76,6 @@ git clone https://github.com/madhabendra-baral/email-writer-assistant-ai.git
 
 > If you fork or move this project, replace the URL above with your repository URL.
 
----
 
 ### 🔹 Step 2: Setup Backend (Spring Boot)
 
@@ -106,7 +105,6 @@ http://localhost:8080
 
 If you need a different port, change `server.port` in `application.properties`.
 
----
 
 ### 🔹 Step 3: Load Chrome Extension
 
@@ -144,21 +142,18 @@ Here are some screenshots to demonstrate how **Reply Craft** works:
 
 *Shows the email you want to reply to.*
 
----
 
 ### 2️⃣ AI Reply Button
 ![AI Reply Button](screenshots/ai-reply-button.png)
 
 *Click the “Reply Craft / AI Reply” button to generate a reply.*
 
----
 
 ### 3️⃣ Generated Reply
 ![Generated Reply](screenshots/generated-reply.png)
 
 *The AI generates a professional response using Gemini API.*
 
----
 
 ### 4️⃣ Final Email Ready to Send
 ![Final Email](screenshots/final-email.png)
